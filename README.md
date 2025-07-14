@@ -70,7 +70,7 @@ The project implements a RESTful API for a blog platform, including:
 
 ### Example: Swagger UI
 
-![Swagger UI Screenshot](swagger.png)
+![Swagger UI Screenshot](Swagger.png)
 <!-- Upload your screenshot as 'swagger.png' in the repo root or update the path accordingly -->
 
 ## 🚀 Getting Started
