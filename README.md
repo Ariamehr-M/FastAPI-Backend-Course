@@ -13,7 +13,7 @@ This project is a hands-on implementation of a blog API using FastAPI. It covers
 
 ## 🗂️ Codebase Structure
 
-![Project Structure](blog_structure.png)
+![Project Structure](CodeBase.png)
 <!-- Upload your screenshot as 'blog_structure.png' in the repo root or update the path accordingly -->
 
 ### How the Codebase Works
