@@ -2,14 +2,14 @@
 
 *Build Fast, Scale Smart, Lead the Future*
 
----
+
 
 ![Last Commit](https://img.shields.io/github/last-commit/your-username/your-repo-name?label=last%20commit&color=gray)
 ![Commit Date](https://img.shields.io/badge/last%20monday-blue)
 ![Python](https://img.shields.io/badge/python-98.4%25-blue)
 ![Languages](https://img.shields.io/badge/languages-7-gray)
 
----
+
 
 *Built with the tools and technologies:*
 
@@ -21,7 +21,7 @@
 
 
 
-# FastAPI Backend Course Project
+
 
 This repository contains the complete code for the [FastAPI - A Python Framework | Full Course](https://www.youtube.com/watch?v=7t2alSnE2-I&t=373s) tutorial on YouTube. The project demonstrates how to build a robust backend API using FastAPI, covering everything from basic setup to authentication, database integration, and deployment.
 
